@@ -152,3 +152,9 @@ urlpatterns = [
 
 urlpatterns += router.urls
 ```
+
+Links:
+[Slide](https://docs.google.com/presentation/d/e/2PACX-1vQm9eZ_7NRFs9TpFAXSIgP5MJUUsK5oPQXfHB9ToQ7cxQSuocNKf0plfly9bMW_H103nEc-CV5Xvx-7/embed?start=false&loop=false&delayms=3000&slide=id.g143f30675af_0_0)
+Videos:
+[Teoria](https://www.youtube.com/watch?v=dAv8BDLKxnY&list=PLxI5H7lUXWhgHbHF4bNrZdBHDtf0CbEeH&index=6&ab_channel=Silabuz)
+[Practica](https://www.youtube.com/watch?v=9rnnybzwscA&list=PLxI5H7lUXWhgHbHF4bNrZdBHDtf0CbEeH&index=7&ab_channel=Silabuz)
